@@ -39,12 +39,6 @@ python agent.py
 ## Adding Tools
 You can add tools effortlessly using JSON schemas matching the OpenAI function calling spec. Check `agent.py` for the weather tool example. Simply define a function, define its schema, and append it to the tool orchestration loop.
 
----
-### 🏢 About Stackaura
-This project is proudly maintained backed and sponsored by **[Stackaura](https://www.stackaura.com/)**.
-We specialize in building high-performance web applications, scalable SaaS architectures, and premium digital solutions.
-👉 **[Visit Stackaura to supercharge your next project!](https://www.stackaura.com/)**
-
 
 ---
 
@@ -63,3 +57,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
