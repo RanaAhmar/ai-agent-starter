@@ -1,3 +1,5 @@
+![Stackaura AI Agent Starter](banner.png)
+
 # 🤖 Production-Ready AI Agent Starter Kit
 
 > A robust, boilerplate LLM agent template complete with tool-calling, conversational memory, streaming support, and robust error handling. Zero bloat, fully typed, ready for production.

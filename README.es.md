@@ -1,3 +1,5 @@
+![Stackaura AI Agent Starter](banner.png)
+
 # 🤖 AI Agent Starter (Español)
 ### Boilerplate de agente LLM listo para producción con llamado de herramientas (tool-calling), memoria y streaming.
 
